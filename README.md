@@ -15,13 +15,6 @@ The Brain Tumor Classification App allows users to upload medical images and cla
 - **Real-Time Results**: Provides immediate classification results.
 
 
-### Example Image
-
-Here's an example of a medical image used for classification:
-
-![Example Image]()
-
-
 ## Requirements
 
 - Python 3.x
@@ -64,6 +57,8 @@ Here's an example of a medical image used for classification:
 3. **Image Preprocessing**: The image is preprocessed using OpenCV.
 4. **Classification**: The pre-trained VGG19 model classifies the image as either tumor or non-tumor.
 5. **Results**: The classification result is displayed on the results page.
+
+
 
 ## How it Works
 
