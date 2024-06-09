@@ -15,6 +15,13 @@ The Brain Tumor Classification App allows users to upload medical images and cla
 - **Real-Time Results**: Provides immediate classification results.
 
 
+### Example Image
+
+Here's an example of a medical image used for classification:
+
+![Example Image]()
+
+
 ## Requirements
 
 - Python 3.x
