@@ -59,12 +59,6 @@ The Brain Tumor Classification App allows users to upload medical images and cla
 5. **Results**: The classification result is displayed on the results page.
 
 
-### Example Image
-
-Here's an example of a medical image used for classification:
-
-![Example Image](/images/Y1.jpg)
-
 
 
 ## How it Works
